@@ -1,0 +1,24 @@
+<!-- hedar -->
+<div class="hedar">
+    <div class="contenar">
+        <div class="hedar_content">
+            <div class="logo">
+                <img src="C:\Users\jenin\Desktop\Templat\img\logo.png" title="logo img" draggable="false">
+
+            </div>
+            <div class="nav">
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Protfoli</a></li>
+                    <li><a href="#">Servicr</a></li>
+                    <li><a href="#">Prices</a></li>
+                    <li><a href="#">Team</a></li>
+                    <li><a href="#">Blog</a></li>
+                    <li><a href="#">contact</a></li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>

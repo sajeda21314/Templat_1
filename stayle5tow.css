@@ -1,0 +1,162 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* main */
+.contenar {
+
+    width: 70%;
+    height: 100%;
+
+    float: left;
+
+}
+
+.clear {
+    clear: both;
+}
+
+.contenar_smoler {
+    width: 30%;
+    height: 100%;
+
+    float: left;
+}
+
+.computer_img {
+    margin-top: 120px;
+    margin-left: 120px;
+    width: 90%;
+    height: 170px;
+}
+
+
+
+/* main smollar */
+.sertch {
+    border: solid .1px #e6e5e5;
+    width: 65%;
+    height: 30px;
+    margin-top: 4px;
+    background-color: #f7f6f6;
+    float: left;
+}
+
+.sertch p {
+    margin-top: 2px;
+    margin-left: 5px;
+    color: #b3b3b3;
+    float: left;
+}
+
+.sertch img {
+    width: 15px;
+    height: 15px;
+    margin-top: 5px;
+    margin-left: 198px
+}
+
+.title_lft {
+
+    margin-top: 30px;
+    padding-top: 80px;
+    font-size: 30px;
+    letter-spacing: 1px;
+}
+
+.title_lft_1 {
+
+    padding-top: 50px;
+    font-size: 30px;
+    letter-spacing: 1px
+}
+
+
+.span2 {
+    width: 33px;
+    height: 3px;
+    background-color: #1695FF;
+    margin-top: 15px;
+    display: block;
+    margin-left: 3px;
+
+}
+
+.wab {
+    border: solid .1px #f3f1f1;
+    ;
+    width: 65%;
+    height: 27px;
+    margin-top: 15px;
+}
+
+.marketing {
+    border: solid .1px #f3f1f1;
+    ;
+    width: 65%;
+    height: 27px;
+
+}
+
+.wab_develop {
+    border: solid .1px #f3f1f1;
+    ;
+    width: 65%;
+    height: 27px;
+
+}
+
+.branding {
+    border: solid .1px #f3f1f1;
+    ;
+    width: 65%;
+    height: 27px;
+
+}
+
+.Photography {
+    border: solid .1px #f3f1f1;
+    width: 65%;
+    height: 27px;
+}
+
+.p1_2 {
+    display: inline;
+    padding-right: 160px;
+    margin-left: 2px;
+    font-size: 16px;
+    color: #5c5c5c;
+}
+
+.p1_1 {
+    display: inline;
+    padding-right: 100px;
+    margin-left: 2px;
+    font-size: 16px;
+    color: #5c5c5c;
+}
+
+.p1 {
+    display: inline;
+    padding-right: 150px;
+    margin-left: 2px;
+    font-size: 16px;
+    color: #5c5c5c;
+
+}
+
+.p2 {
+    display: inline;
+    margin-top: 10px;
+    margin-left: 2px;
+    font-size: 17px;
+    color: #1695FF;
+    font-size: 15px;
+}
+
+
+.main_smollar {
+    margin-top: 120px;
+}
